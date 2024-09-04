@@ -1,4 +1,4 @@
-# Want to learn DevOps the right way in 2022 ? You have come to the right place
+# Want to learn DevOps the right way in 2024 ? You have come to the right place
 
 I have created the complete DevOps roadmap that anyone can follow and be job ready in 6 months. You can download the [roadmap pdf](https://github.com/saiyam1814/devopsroadmap2022/blob/main/DevOps%20roadmap%202022.pdf), take print out and get started. 
 
